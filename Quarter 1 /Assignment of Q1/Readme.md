@@ -1,6 +1,6 @@
 <img src="Database.jpg" align="right" />
 
-# Database Projects
+# Small Projects and Assignment
 [![GitHub last commit](https://img.shields.io/github/last-commit/samiwadh/Python?color=%23f54242)](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Assignment%20of%20Q1)
 
 
