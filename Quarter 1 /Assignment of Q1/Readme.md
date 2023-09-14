@@ -1,4 +1,4 @@
-<img src="Database.jpg" align="right" />
+<img src="Python.jpg" align="right" />
 
 # Small Projects and Assignment
 [![GitHub last commit](https://img.shields.io/github/last-commit/samiwadh/Python?color=%23f54242)](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Assignment%20of%20Q1)
@@ -8,7 +8,7 @@
 ## About
 Repository of Python Assignment and small Project This Readme File show the shortcut location of each project and Assignment loctions with name on it.
 
-## Assignments List Quarter 1
+## Here is List
 
 ### Week 3
 
