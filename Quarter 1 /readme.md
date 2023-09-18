@@ -12,6 +12,6 @@
 	 - This program takes a number as input from the user and tells if it is Even or Odd
  - **[Practice and Work](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Practice%20and%20Work%20)**
 	 - This program takes User Name and Subject Marks and prints a Marks Sheet
- - **[Assignment 2 (Marks Sheet)](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Week%20Class)**
+ - **[Class](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Week%20Class)**
 
 
