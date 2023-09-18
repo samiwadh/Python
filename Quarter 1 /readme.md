@@ -1,1 +1,22 @@
 
+<img src="Python.jpg" align="right" />
+
+# Small Projects and Assignment
+[![GitHub last commit](https://img.shields.io/github/last-commit/samiwadh/Python?color=%23f54242)](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Assignment%20of%20Q1)
+
+
+
+## About
+Repository of Python Assignment and small Project This Readme File show the shortcut location of each project and Assignment loctions with name on it.
+
+## Here is List
+
+### Week 3
+
+ - **[Assignment 1 (Find Even Odd Number)](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Assignment%20of%20Q1)**
+	 - This program takes a number as input from the user and tells if it is Even or Odd
+ - **[Assignment 2 (Marks Sheet)](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Practice%20and%20Work%20)**
+	 - This program takes User Name and Subject Marks and prints a Marks Sheet
+ - **[Assignment 2 (Marks Sheet)](https://github.com/samiwadh/Python/tree/main/Quarter%201%20/Week%20Class)**
+
+
